@@ -1,0 +1,12 @@
+{
+  "name": "UHack2020",
+  "displayName": "UHack2020",
+  "expo": {
+    "name": "UHack2020",
+    "slug": "UHack2020",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
